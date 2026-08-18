@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+tensorflow==2.*
+matplotlib
+fastapi
+uvicorn
+scapy
+streamlit
+joblib
